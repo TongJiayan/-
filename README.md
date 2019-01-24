@@ -11,9 +11,10 @@
 #### 选择选项9，提示输入棋盘的尺寸（n*m）,开始游戏。游戏过程中，用户通过鼠标点击需要交换的两个子，完成交换后判断是否满足至少三个相同颜色的子在同一直线上，若满足，则发生消除操作，同时上端的子下落填充空白区域。（参考消消乐游戏规则）
 
 ![image](https://github.com/TongJiayan/Little-game/blob/master/images/2.png)
+![image](https://github.com/TongJiayan/Little-game/blob/master/images/3.png)
 
 #### 游戏结束标志是不存在可消除的子
 
-![image](https://github.com/TongJiayan/Little-game/blob/master/images/3.png)
+![image](https://github.com/TongJiayan/Little-game/blob/master/images/4.png)
 
 #### 完整的设计过程请参考report-balls.pdf
